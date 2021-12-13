@@ -1,1 +1,3 @@
 # Algorithm
+### Soyeon
+### Jehyeop
