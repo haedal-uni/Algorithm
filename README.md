@@ -1,3 +1,3 @@
 # Algorithm
-### Soyeon
-### Jehyeop
+### Soyeon(haedal-uni)
+### Jehyeop(great-psycho)
