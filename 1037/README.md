@@ -1,4 +1,4 @@
-### [1157](https://www.acmicpc.net/problem/1037)     
+### [1037](https://www.acmicpc.net/problem/1037)     
 
 난이도 : 하
 
