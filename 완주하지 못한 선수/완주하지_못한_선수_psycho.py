@@ -11,11 +11,11 @@ def solution(participant, completion):
             answer = participant[i]
             return answer
 
-    # 효율성 문제 발생
-    for i in completion:
-        participant.remove(i)
-    answer = participant[0]
-    return answer
+    # # 효율성 문제 발생
+    # for i in completion:
+    #     participant.remove(i)
+    # answer = participant[0]
+    # return answer
 
 # best code
 import collections
